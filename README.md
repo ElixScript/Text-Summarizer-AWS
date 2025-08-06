@@ -1,2 +1,2 @@
 # Text-Summarizer-AWS
-implementation of text summarization
+Still in building stage 
